@@ -14,7 +14,7 @@ I'm a passionate Data Scientist focused on Machine Learning, AI, and Deep Learni
 ![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=white&style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-yellow?logo=google&logoColor=white&style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-DL-ff0066?logo=tensorflow&logoColor=white&style=for-the-badge)
-
+                                                                                                        <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a></p>
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
