@@ -16,11 +16,6 @@ I'm a passionate Data Scientist focused on Machine Learning, AI, and Deep Learni
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-DL-ff0066?logo=tensorflow&logoColor=white&style=for-the-badge)
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- GIF on the left -->
-  <div style="width: 200px; height: 200px; overflow: hidden;">
-    <iframe src="https://giphy.com/embed/citBl9yPwnUOs" width="100%" height="100%" style="position:absolute;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div>
-  
   <!-- GitHub Stats on the right -->
   <div style="margin-left: 20px;">
     <h3>📊 GitHub Stats</h3>
