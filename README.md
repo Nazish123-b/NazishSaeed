@@ -5,9 +5,9 @@
 I'm a passionate Data Scientist focused on Machine Learning, AI, and Deep Learning. I love solving real-world problems with code and data.
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on a project to detect clouds using deep learning and satellite imagery.
-- 🌱 I’m learning about Reinforcement Learning and Natural Language Processing.
-- 👯 I’m looking to collaborate on Machine Learning and Data Science projects.
+- 🎓 MPhil in Data Science | Researcher in Machine Learning.
+- 💻 Specializing in Deep Learning applications for climate.
+- 🌍 Exploring cloud morphology and satellite image analysis.
 - 📫 How to reach me: [Email](nazish63663@gmail.com)
 
 ## 🚀 Skills and Technologies
