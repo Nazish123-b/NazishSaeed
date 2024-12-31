@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm [Nazish Saeed]! 👋
 
 ![Profile Banner](https://your-cdn-link.com/banner.gif)
 
