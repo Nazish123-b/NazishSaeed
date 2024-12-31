@@ -15,8 +15,8 @@ I'm a passionate Data Scientist focused on Machine Learning, AI, and Deep Learni
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-yellow?logo=google&logoColor=white&style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-DL-ff0066?logo=tensorflow&logoColor=white&style=for-the-badge)
 
-<p align="right" style="margin: 0;">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Alt text" style="max-width: 100%; height: auto;">
+<p align="right">
+  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Alt text" width="150">
 </p>
 
 ## 📊 GitHub Stats
