@@ -14,10 +14,10 @@ I'm a passionate Data Scientist focused on Machine Learning, AI, and Deep Learni
 ![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=white&style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-yellow?logo=google&logoColor=white&style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-DL-ff0066?logo=tensorflow&logoColor=white&style=for-the-badge)
-<p align="right">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Alt text">
-</p>
 
+<p align="right" style="margin: 0;">
+  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Alt text" style="max-width: 100%; height: auto;">
+</p>
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
@@ -30,5 +30,3 @@ I'm a passionate Data Scientist focused on Machine Learning, AI, and Deep Learni
 
 ## 📫 Contact Me
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/nazishsaeed/)
-
-
