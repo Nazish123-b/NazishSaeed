@@ -15,12 +15,13 @@ I'm a passionate Data Scientist focused on Machine Learning, AI, and Deep Learni
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-yellow?logo=google&logoColor=white&style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-DL-ff0066?logo=tensorflow&logoColor=white&style=for-the-badge)
 
-<p align="right">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Alt text" width="150">
-</p>
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+  <div>
+    <h3>📊 GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats">
+  </div>
+</div>
 
 ## 🔥 GitHub Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&background=000000)
